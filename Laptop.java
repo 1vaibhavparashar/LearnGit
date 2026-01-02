@@ -2,6 +2,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 
+//used for custom sorting
+
 public class Laptop implements Comparator<Laptop> {
 
     //states
